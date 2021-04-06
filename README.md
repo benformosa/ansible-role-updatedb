@@ -1,9 +1,13 @@
 ## updatedb
 
-[![CI](https://github.com/Oefenweb/ansible-updatedb/workflows/CI/badge.svg)](https://github.com/Oefenweb/ansible-updatedb/actions?query=workflow%3ACI)
-[![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-updatedb-blue.svg)](https://galaxy.ansible.com/Oefenweb/updatedb)
+[![CI](https://github.com/benformosa/ansible-role-updatedb/workflows/CI/badge.svg)](https://github.com/benformosa/ansible-role-updatedb/actions?query=workflow%3ACI)
+[![Ansible Role](https://img.shields.io/ansible/role/54030.svg)](https://galaxy.ansible.com/benformosa/updatedb)
+[![GitHub release](https://img.shields.io/github/v/release/benformosa/ansible-role-updatedb.svg)](https://github.com/benformosa/ansible-role-updatedb/releases/latest)
+
 
 Manage updatedb Debian-like systems.
+
+Forked from [Oefenweb/ansible-updatedb](https://github.com/Oefenweb/ansible-updatedb) to add RHEL support.
 
 #### Requirements
 
@@ -35,8 +39,9 @@ MIT
 
 #### Author Information
 
-Mischa ter Smitten
+* Mischa ter Smitten
+* Ben Formosa
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/Oefenweb/ansible-updatedb/issues)!
+Are [welcome](https://github.com/benformosa/ansible-role-updatedb/issues)!
